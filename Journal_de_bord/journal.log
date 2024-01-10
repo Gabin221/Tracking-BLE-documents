@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  10 JAN 2024 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  10 JAN 2024 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,33 +392,47 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../Diagrammes/recherche-actif.png, id=27, 1456.44125pt x 1127.21124pt>
-File: ../Diagrammes/recherche-actif.png Graphic file (type png)
-<use ../Diagrammes/recherche-actif.png>
-Package pdftex.def Info: ../Diagrammes/recherche-actif.png  used on input line 49.
-(pdftex.def)             Requested size: 291.28308pt x 225.43825pt.
-<../Diagrammes/controle-chargement.png, id=29, 1122.1925pt x 912.40875pt>
-File: ../Diagrammes/controle-chargement.png Graphic file (type png)
-<use ../Diagrammes/controle-chargement.png>
-Package pdftex.def Info: ../Diagrammes/controle-chargement.png  used on input line 55.
-(pdftex.def)             Requested size: 224.43452pt x 182.47852pt.
- [2 <../Diagrammes/recherche-actif.png> <../Diagrammes/controle-chargement.png>] (./journal.aux)
+<../Diagrammes/recherche_actif.png, id=31, 1538.74875pt x 807.015pt>
+File: ../Diagrammes/recherche_actif.png Graphic file (type png)
+<use ../Diagrammes/recherche_actif.png>
+Package pdftex.def Info: ../Diagrammes/recherche_actif.png  used on input line 50.
+(pdftex.def)             Requested size: 307.7443pt x 161.40013pt.
+<../Diagrammes/controle_chargement.png, id=33, 1532.72626pt x 856.19875pt>
+File: ../Diagrammes/controle_chargement.png Graphic file (type png)
+<use ../Diagrammes/controle_chargement.png>
+Package pdftex.def Info: ../Diagrammes/controle_chargement.png  used on input line 56.
+(pdftex.def)             Requested size: 306.53983pt x 171.23671pt.
+<Images/recherche_actif.png, id=34, 1538.74875pt x 807.015pt>
+File: Images/recherche_actif.png Graphic file (type png)
+<use Images/recherche_actif.png>
+Package pdftex.def Info: Images/recherche_actif.png  used on input line 62.
+(pdftex.def)             Requested size: 307.7443pt x 161.40013pt.
+<Images/controle_chargement.png, id=35, 1532.72626pt x 856.19875pt>
+File: Images/controle_chargement.png Graphic file (type png)
+<use Images/controle_chargement.png>
+Package pdftex.def Info: Images/controle_chargement.png  used on input line 68.
+(pdftex.def)             Requested size: 306.53983pt x 171.23671pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <../Diagrammes/recherche_actif.png> <../Diagrammes/controle_chargement.png> <./Images/recherche_actif.png>] [3 <./Images/controle_chargement.png>] (./journal.aux)
 Package rerunfilecheck Info: File `journal.out' has not changed.
 (rerunfilecheck)             Checksum: 5EEC162E16ECF821E39B60B2A1A65E44;78.
  ) 
 Here is how much of TeX's memory you used:
- 12965 strings out of 478287
- 206470 string characters out of 5849290
- 510354 words of memory out of 5000000
- 31000 multiletter control sequences out of 15000+600000
+ 12983 strings out of 478287
+ 206969 string characters out of 5849290
+ 511416 words of memory out of 5000000
+ 31014 multiletter control sequences out of 15000+600000
  479191 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,7n,63p,331b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on journal.pdf (2 pages, 222249 bytes).
+Output written on journal.pdf (3 pages, 475123 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 19 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 29 words of extra memory for PDF output out of 10000 (max. 10000000)
 
