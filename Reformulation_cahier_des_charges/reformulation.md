@@ -57,9 +57,9 @@ Le responsable de l'entrepôt peut faire plusieurs opérations grâce à des pag
 
 Egalement grâce aux pages web, le responsable logistique peut réaliser les opérations suivantes :
 
-+ il gère la liste des camions ;
-+ il sélectionne un camion et visualise les données envoyée (supports de charge et température) ;
-+ il visualise sur une carte la situation géographique d’un camion ;
-+ il visualise sur une carte la situation géographique d’un support de charge ;
-+ il visualise la liste des supports de charge présents dans les camions ;
-+ il sélectionne un support de charge et identifie le camion qui le transporte.
++ Il gère la liste des camions ;
++ Il sélectionne un camion et visualise les données envoyée (supports de charge et température) ;
++ Il visualise sur une carte la situation géographique d’un camion ;
++ Il visualise sur une carte la situation géographique d’un support de charge ;
++ Il visualise la liste des supports de charge présents dans les camions ;
++ Il sélectionne un support de charge et identifie le camion qui le transporte.
