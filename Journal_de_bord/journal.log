@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  10 JAN 2024 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  11 JAN 2024 10:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,14 +265,18 @@ Package caption Info: french babel package is loaded.
 \c@caption@flags=\count290
 \c@continuedfloat=\count291
 Package caption Info: hyperref package is loaded.
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count292
+\c@subtable=\count293
 ) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count292
-\Gm@cntv=\count293
-\c@Gm@tempcnt=\count294
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
 \Gm@bindingoffset=\dimen170
 \Gm@wd@mp=\dimen171
 \Gm@odd@mp=\dimen172
@@ -284,32 +288,32 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count295
+\l__color_backend_stack_int=\count297
 \l__pdf_internal_box=\box52
 ) (./journal.aux)
 \openout1 = `journal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Info: Redefining \degres on input line 17.
-LaTeX Info: Redefining \up on input line 17.
-Package hyperref Info: Link coloring OFF on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \degres on input line 18.
+LaTeX Info: Redefining \up on input line 18.
+Package hyperref Info: Link coloring OFF on input line 18.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -317,27 +321,27 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count296
+\c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
  (./journal.out) (./journal.out)
 \@outlinefile=\write3
 \openout3 = `journal.out'.
 
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count297
+\scratchcounter=\count299
 \scratchdimen=\dimen178
 \scratchbox=\box53
-\nofMPsegments=\count298
-\nofMParguments=\count299
+\nofMPsegments=\count300
+\nofMParguments=\count301
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count300
+\MPscratchCnt=\count302
 \MPscratchDim=\dimen179
-\MPnumerator=\count301
-\makeMPintoPDFobject=\count302
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
 \everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -382,57 +386,53 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../Diagrammes/recherche_actif.png, id=31, 1538.74875pt x 807.015pt>
-File: ../Diagrammes/recherche_actif.png Graphic file (type png)
-<use ../Diagrammes/recherche_actif.png>
-Package pdftex.def Info: ../Diagrammes/recherche_actif.png  used on input line 50.
-(pdftex.def)             Requested size: 307.7443pt x 161.40013pt.
-<../Diagrammes/controle_chargement.png, id=33, 1532.72626pt x 856.19875pt>
-File: ../Diagrammes/controle_chargement.png Graphic file (type png)
-<use ../Diagrammes/controle_chargement.png>
-Package pdftex.def Info: ../Diagrammes/controle_chargement.png  used on input line 56.
-(pdftex.def)             Requested size: 306.53983pt x 171.23671pt.
-<Images/recherche_actif.png, id=34, 1538.74875pt x 807.015pt>
+<Images/recherche-actif.png, id=30, 1456.44125pt x 1127.21124pt>
+File: Images/recherche-actif.png Graphic file (type png)
+<use Images/recherche-actif.png>
+Package pdftex.def Info: Images/recherche-actif.png  used on input line 58.
+(pdftex.def)             Requested size: 203.90038pt x 157.80849pt.
+<Images/controle-chargement.png, id=32, 1122.1925pt x 912.40875pt>
+File: Images/controle-chargement.png Graphic file (type png)
+<use Images/controle-chargement.png>
+Package pdftex.def Info: Images/controle-chargement.png  used on input line 63.
+(pdftex.def)             Requested size: 157.10588pt x 127.73634pt.
+<Images/recherche_actif.png, id=33, 1538.74875pt x 807.015pt>
 File: Images/recherche_actif.png Graphic file (type png)
 <use Images/recherche_actif.png>
-Package pdftex.def Info: Images/recherche_actif.png  used on input line 62.
-(pdftex.def)             Requested size: 307.7443pt x 161.40013pt.
-<Images/controle_chargement.png, id=35, 1532.72626pt x 856.19875pt>
+Package pdftex.def Info: Images/recherche_actif.png  used on input line 74.
+(pdftex.def)             Requested size: 215.42336pt x 112.98132pt.
+<Images/controle_chargement.png, id=34, 1532.72626pt x 856.19875pt>
 File: Images/controle_chargement.png Graphic file (type png)
 <use Images/controle_chargement.png>
-Package pdftex.def Info: Images/controle_chargement.png  used on input line 68.
-(pdftex.def)             Requested size: 306.53983pt x 171.23671pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[2 <../Diagrammes/recherche_actif.png> <../Diagrammes/controle_chargement.png> <./Images/recherche_actif.png>] [3 <./Images/controle_chargement.png>] (./journal.aux)
+Package pdftex.def Info: Images/controle_chargement.png  used on input line 79.
+(pdftex.def)             Requested size: 214.58022pt x 119.867pt.
+ [2 <./Images/recherche-actif.png> <./Images/controle-chargement.png> <./Images/recherche_actif.png> <./Images/controle_chargement.png>] (./journal.aux)
 Package rerunfilecheck Info: File `journal.out' has not changed.
 (rerunfilecheck)             Checksum: 5EEC162E16ECF821E39B60B2A1A65E44;78.
  ) 
 Here is how much of TeX's memory you used:
- 12983 strings out of 478287
- 206969 string characters out of 5849290
- 511416 words of memory out of 5000000
- 31014 multiletter control sequences out of 15000+600000
- 479191 words of font info for 53 fonts, out of 8000000 for 9000
+ 13066 strings out of 478287
+ 208605 string characters out of 5849290
+ 513973 words of memory out of 5000000
+ 31095 multiletter control sequences out of 15000+600000
+ 479956 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,63p,331b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on journal.pdf (3 pages, 475123 bytes).
+ 60i,9n,63p,325b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on journal.pdf (2 pages, 422918 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  29 words of extra memory for PDF output out of 10000 (max. 10000000)
 

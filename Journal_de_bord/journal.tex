@@ -9,6 +9,7 @@
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{caption}
+\usepackage{subcaption}
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 
 \title{Journal de bord}
@@ -38,6 +39,11 @@
         \end{itemize}
     \item \textbf{11/01/2024:}
         \begin{itemize}
+            \item Je me suis lancé dans les diagrammes de déploiement mais Pierre m'a dit que ces diagrammes sont à faire par équipe car ils représentent tout le système, pas chacun le sien
+            \item J'ai donc décidé de faire la reformulation du cahier des charges
+        \end{itemize}
+    \item \textbf{11/01/2024:}
+        \begin{itemize}
             \item 
         \end{itemize}
 \end{enumerate}
@@ -47,27 +53,35 @@
 \section{Annexes}
 
 \begin{figure}[h!]
-    \includegraphics[scale=0.2]{../Diagrammes/recherche_actif.png}
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[scale=0.14]{Images/recherche-actif.png}
+        \caption{}
+        \label{recherche-actif.png1}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[scale=0.14]{Images/controle-chargement.png}
+        \caption{}
+        \label{controle-chargement.png1}
+    \end{subfigure}
     \caption{}
-    \label{recherche-actif.png1}
 \end{figure}
 
 \begin{figure}[h!]
-    \includegraphics[scale=0.2]{../Diagrammes/controle_chargement.png}
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[scale=0.14]{Images/recherche_actif.png}
+        \caption{}
+        \label{recherche_actif.png2}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.45\textwidth}
+        \includegraphics[scale=0.14]{Images/controle_chargement.png}
+        \caption{}
+        \label{controle_chargement.png2}
+    \end{subfigure}
     \caption{}
-    \label{controle-chargement.png1}
-\end{figure}
-
-\begin{figure}[h!]
-    \includegraphics[scale=0.2]{Images/recherche_actif.png}
-    \caption{}
-    \label{recherche_actif.png2}
-\end{figure}
-
-\begin{figure}[h!]
-    \includegraphics[scale=0.2]{Images/controle_chargement.png}
-    \caption{}
-    \label{controle_chargement.png2}
 \end{figure}
 
 \end{document}
