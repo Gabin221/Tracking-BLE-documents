@@ -2,7 +2,7 @@
 
 ## Gabin
 
-| Titre | Elément | Comment | Observation |
+| Titres | Elément | Comment | Observation |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | Test de la connexion | Système de connexion | Je teste un identifiant et un mot de passe valides | La bonne page de l'utilisateur apparaît si les identifiants sont corrects, sinon un message d'erreur apparaît |
 | Test de la sélection du beacon | Liste des beacons disponibles | J'ouvre la liste déroulante des beacons disponibles et je confirme mon choix | L'affichage de la distance apparaît |
