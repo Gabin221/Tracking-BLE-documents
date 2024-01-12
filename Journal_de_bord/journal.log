@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  11 JAN 2024 10:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  12 JAN 2024 11:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/gabin/mondrive/Tracking-BLE/Journal_de_bord/journal.tex
-(/home/gabin/mondrive/Tracking-BLE/Journal_de_bord/journal.tex
+**/home/gabin/Documents/Tracking-BLE/Journal_de_bord/journal.tex
+(/home/gabin/Documents/Tracking-BLE/Journal_de_bord/journal.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -396,43 +396,43 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Images/recherche-actif.png, id=30, 1456.44125pt x 1127.21124pt>
+<Images/recherche-actif.png, id=31, 1456.44125pt x 1127.21124pt>
 File: Images/recherche-actif.png Graphic file (type png)
 <use Images/recherche-actif.png>
-Package pdftex.def Info: Images/recherche-actif.png  used on input line 58.
+Package pdftex.def Info: Images/recherche-actif.png  used on input line 64.
 (pdftex.def)             Requested size: 203.90038pt x 157.80849pt.
-<Images/controle-chargement.png, id=32, 1122.1925pt x 912.40875pt>
+<Images/controle-chargement.png, id=33, 1122.1925pt x 912.40875pt>
 File: Images/controle-chargement.png Graphic file (type png)
 <use Images/controle-chargement.png>
-Package pdftex.def Info: Images/controle-chargement.png  used on input line 63.
+Package pdftex.def Info: Images/controle-chargement.png  used on input line 69.
 (pdftex.def)             Requested size: 157.10588pt x 127.73634pt.
-<Images/recherche_actif.png, id=33, 1538.74875pt x 807.015pt>
+<Images/recherche_actif.png, id=34, 1538.74875pt x 807.015pt>
 File: Images/recherche_actif.png Graphic file (type png)
 <use Images/recherche_actif.png>
-Package pdftex.def Info: Images/recherche_actif.png  used on input line 74.
+Package pdftex.def Info: Images/recherche_actif.png  used on input line 80.
 (pdftex.def)             Requested size: 215.42336pt x 112.98132pt.
-<Images/controle_chargement.png, id=34, 1532.72626pt x 856.19875pt>
+<Images/controle_chargement.png, id=35, 1532.72626pt x 856.19875pt>
 File: Images/controle_chargement.png Graphic file (type png)
 <use Images/controle_chargement.png>
-Package pdftex.def Info: Images/controle_chargement.png  used on input line 79.
+Package pdftex.def Info: Images/controle_chargement.png  used on input line 85.
 (pdftex.def)             Requested size: 214.58022pt x 119.867pt.
  [2 <./Images/recherche-actif.png> <./Images/controle-chargement.png> <./Images/recherche_actif.png> <./Images/controle_chargement.png>] (./journal.aux)
 Package rerunfilecheck Info: File `journal.out' has not changed.
 (rerunfilecheck)             Checksum: 5EEC162E16ECF821E39B60B2A1A65E44;78.
  ) 
 Here is how much of TeX's memory you used:
- 13066 strings out of 478287
- 208605 string characters out of 5849290
- 513973 words of memory out of 5000000
+ 13067 strings out of 478287
+ 208614 string characters out of 5849290
+ 515973 words of memory out of 5000000
  31095 multiletter control sequences out of 15000+600000
  479956 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,63p,325b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,63p,326b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on journal.pdf (2 pages, 422918 bytes).
+Output written on journal.pdf (2 pages, 423659 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
  29 words of extra memory for PDF output out of 10000 (max. 10000000)
 
