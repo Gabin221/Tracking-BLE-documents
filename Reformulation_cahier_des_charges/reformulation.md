@@ -11,7 +11,7 @@ Les gateways sont configurées à l'aide de l'application <b>CheckBlue</b> déj�
 ### Tampon des données
 
 Le tampon de données est réalisé à partir d'un ordinateur, ici ce sera un Raspberry Pi 4. Son objectif est de faire l'intermédiaire entre les gateways et le serveur. Il reçoit donc les données par les gateways via des requêtes HTTP POST puis les envoies au serveur également sous forme de requêtes HTTP POST. Etant donné que nous voulons identifier quelle gateway a identifié quels beacon, la trame de données reçue par le tampon contient au format JSON l'adresse MAC de la gateway qui a émise la trame suivi de la liste des beacons détectés.  
-Le responsable de l'entrepôt a le choix dans la fréquence à laquelle le tampon envoie les données au serveur, en sachant que si le ampon envoie ses données au serveur, alors il vide sa mémoire automatiquement. Il peut donc choisir parmis trois modes différents : le <b>mode transparent</b>, le <b>mode programmé</b> et le <b>mode quotidien</b>.
+Le responsable de l'entrepôt a le choix dans la fréquence à laquelle le tampon envoie les données au serveur, en sachant que si le tampon envoie ses données au serveur, alors il vide sa mémoire automatiquement. Il peut donc choisir parmis trois modes différents : le <b>mode transparent</b>, le <b>mode programmé</b> et le <b>mode quotidien</b>.
 
 + Le mode transparent consiste à envoyer instantanément les données au serveur une fois réceptionnées par le tampon  
 + Le mode programmé consiste à configurer l'intervalle de temps entre chaque vidage des données par le tampon
