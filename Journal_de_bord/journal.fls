@@ -688,10 +688,11 @@ INPUT ./Images/diagramme_deploiement.png
 INPUT Images/diagramme_deploiement.png
 INPUT ./Images/diagramme_deploiement.png
 INPUT ./Images/diagramme_deploiement.png
-INPUT ./Images/diagramme_deploiement.png
-INPUT ./Images/diagramme_deploiement.png
-INPUT Images/diagramme_deploiement.png
-INPUT ./Images/diagramme_deploiement.png
+INPUT ./Images/diagramme_exigence1.png
+INPUT ./Images/diagramme_exigence1.png
+INPUT Images/diagramme_exigence1.png
+INPUT ./Images/diagramme_exigence1.png
+INPUT ./Images/diagramme_exigence1.png
 INPUT journal.aux
 INPUT ./journal.out
 INPUT ./journal.out

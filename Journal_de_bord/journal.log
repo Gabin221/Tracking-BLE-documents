@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  16 JAN 2024 16:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  17 JAN 2024 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -399,58 +399,59 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Images/recherche-actif.png, id=38, 1456.44125pt x 1127.21124pt>
 File: Images/recherche-actif.png Graphic file (type png)
 <use Images/recherche-actif.png>
-Package pdftex.def Info: Images/recherche-actif.png  used on input line 75.
+Package pdftex.def Info: Images/recherche-actif.png  used on input line 76.
 (pdftex.def)             Requested size: 203.90038pt x 157.80849pt.
 <Images/controle-chargement.png, id=40, 1122.1925pt x 912.40875pt>
 File: Images/controle-chargement.png Graphic file (type png)
 <use Images/controle-chargement.png>
-Package pdftex.def Info: Images/controle-chargement.png  used on input line 80.
+Package pdftex.def Info: Images/controle-chargement.png  used on input line 81.
 (pdftex.def)             Requested size: 157.10588pt x 127.73634pt.
 <Images/recherche_actif.png, id=41, 1538.74875pt x 807.015pt>
 File: Images/recherche_actif.png Graphic file (type png)
 <use Images/recherche_actif.png>
-Package pdftex.def Info: Images/recherche_actif.png  used on input line 91.
+Package pdftex.def Info: Images/recherche_actif.png  used on input line 92.
 (pdftex.def)             Requested size: 215.42336pt x 112.98132pt.
 <Images/controle_chargement.png, id=42, 1532.72626pt x 856.19875pt>
 File: Images/controle_chargement.png Graphic file (type png)
 <use Images/controle_chargement.png>
-Package pdftex.def Info: Images/controle_chargement.png  used on input line 96.
+Package pdftex.def Info: Images/controle_chargement.png  used on input line 97.
 (pdftex.def)             Requested size: 214.58022pt x 119.867pt.
 <Images/idee_design_application1.png, id=43, 1026.83624pt x 1279.78125pt>
 File: Images/idee_design_application1.png Graphic file (type png)
 <use Images/idee_design_application1.png>
-Package pdftex.def Info: Images/idee_design_application1.png  used on input line 105.
+Package pdftex.def Info: Images/idee_design_application1.png  used on input line 106.
 (pdftex.def)             Requested size: 205.3636pt x 255.95172pt.
 <Images/diagramme_deploiement.png, id=44, 1425.325pt x 1036.87375pt>
 File: Images/diagramme_deploiement.png Graphic file (type png)
 <use Images/diagramme_deploiement.png>
-Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 114.
+Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 115.
 (pdftex.def)             Requested size: 199.54414pt x 145.16133pt.
-File: Images/diagramme_deploiement.png Graphic file (type png)
-<use Images/diagramme_deploiement.png>
-Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 119.
-(pdftex.def)             Requested size: 199.54414pt x 145.16133pt.
+<Images/diagramme_exigence1.png, id=45, 1536.74126pt x 523.9575pt>
+File: Images/diagramme_exigence1.png Graphic file (type png)
+<use Images/diagramme_exigence1.png>
+Package pdftex.def Info: Images/diagramme_exigence1.png  used on input line 120.
+(pdftex.def)             Requested size: 215.1423pt x 73.35355pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2 <./Images/recherche-actif.png> <./Images/controle-chargement.png> <./Images/recherche_actif.png> <./Images/controle_chargement.png> <./Images/idee_design_application1.png>] [3 <./Images/diagramme_deploiement.png>] (./journal.aux)
+[2 <./Images/recherche-actif.png> <./Images/controle-chargement.png> <./Images/recherche_actif.png> <./Images/controle_chargement.png> <./Images/idee_design_application1.png>] [3 <./Images/diagramme_deploiement.png> <./Images/diagramme_exigence1.png>] (./journal.aux)
 Package rerunfilecheck Info: File `journal.out' has not changed.
 (rerunfilecheck)             Checksum: 5EEC162E16ECF821E39B60B2A1A65E44;78.
  ) 
 Here is how much of TeX's memory you used:
- 13091 strings out of 478287
- 209309 string characters out of 5849290
- 520130 words of memory out of 5000000
- 31112 multiletter control sequences out of 15000+600000
+ 13098 strings out of 478287
+ 209545 string characters out of 5849290
+ 521130 words of memory out of 5000000
+ 31118 multiletter control sequences out of 15000+600000
  479956 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,63p,328b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,63p,422b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on journal.pdf (3 pages, 945545 bytes).
+Output written on journal.pdf (3 pages, 1030405 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 101 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
  17 named destinations out of 1000 (max. 500000)
- 39 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 44 words of extra memory for PDF output out of 10000 (max. 10000000)
 
