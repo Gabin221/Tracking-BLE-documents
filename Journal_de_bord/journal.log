@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  5 FEB 2024 08:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  5 FEB 2024 08:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -422,37 +422,37 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 <Images/recherche-actif.png, id=78, 1456.44125pt x 1127.21124pt>
 File: Images/recherche-actif.png Graphic file (type png)
 <use Images/recherche-actif.png>
-Package pdftex.def Info: Images/recherche-actif.png  used on input line 168.
+Package pdftex.def Info: Images/recherche-actif.png  used on input line 169.
 (pdftex.def)             Requested size: 203.90038pt x 157.80849pt.
 <Images/controle-chargement.png, id=80, 1122.1925pt x 912.40875pt>
 File: Images/controle-chargement.png Graphic file (type png)
 <use Images/controle-chargement.png>
-Package pdftex.def Info: Images/controle-chargement.png  used on input line 173.
+Package pdftex.def Info: Images/controle-chargement.png  used on input line 174.
 (pdftex.def)             Requested size: 157.10588pt x 127.73634pt.
 <Images/recherche_actif.png, id=81, 1538.74875pt x 807.015pt>
 File: Images/recherche_actif.png Graphic file (type png)
 <use Images/recherche_actif.png>
-Package pdftex.def Info: Images/recherche_actif.png  used on input line 184.
+Package pdftex.def Info: Images/recherche_actif.png  used on input line 185.
 (pdftex.def)             Requested size: 215.42336pt x 112.98132pt.
 <Images/controle_chargement.png, id=82, 1532.72626pt x 856.19875pt>
 File: Images/controle_chargement.png Graphic file (type png)
 <use Images/controle_chargement.png>
-Package pdftex.def Info: Images/controle_chargement.png  used on input line 189.
+Package pdftex.def Info: Images/controle_chargement.png  used on input line 190.
 (pdftex.def)             Requested size: 214.58022pt x 119.867pt.
 <Images/idee_design_application1.png, id=83, 1026.83624pt x 1279.78125pt>
 File: Images/idee_design_application1.png Graphic file (type png)
 <use Images/idee_design_application1.png>
-Package pdftex.def Info: Images/idee_design_application1.png  used on input line 198.
+Package pdftex.def Info: Images/idee_design_application1.png  used on input line 199.
 (pdftex.def)             Requested size: 205.3636pt x 255.95172pt.
 <Images/diagramme_deploiement.png, id=84, 1425.325pt x 1036.87375pt>
 File: Images/diagramme_deploiement.png Graphic file (type png)
 <use Images/diagramme_deploiement.png>
-Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 207.
+Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 208.
 (pdftex.def)             Requested size: 199.54414pt x 145.16133pt.
 <Images/diagramme_exigence1.png, id=85, 1536.74126pt x 523.9575pt>
 File: Images/diagramme_exigence1.png Graphic file (type png)
 <use Images/diagramme_exigence1.png>
-Package pdftex.def Info: Images/diagramme_exigence1.png  used on input line 212.
+Package pdftex.def Info: Images/diagramme_exigence1.png  used on input line 213.
 (pdftex.def)             Requested size: 215.1423pt x 73.35355pt.
 
 
@@ -461,12 +461,12 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Images/diagramme_exigences_camion.png, id=86, 1392.20125pt x 1005.7575pt>
 File: Images/diagramme_exigences_camion.png Graphic file (type png)
 <use Images/diagramme_exigences_camion.png>
-Package pdftex.def Info: Images/diagramme_exigences_camion.png  used on input line 223.
+Package pdftex.def Info: Images/diagramme_exigences_camion.png  used on input line 224.
 (pdftex.def)             Requested size: 194.90685pt x 140.80508pt.
 <Images/diagramme_exigences_entrepot.png, id=87, 1064.97874pt x 994.71625pt>
 File: Images/diagramme_exigences_entrepot.png Graphic file (type png)
 <use Images/diagramme_exigences_entrepot.png>
-Package pdftex.def Info: Images/diagramme_exigences_entrepot.png  used on input line 228.
+Package pdftex.def Info: Images/diagramme_exigences_entrepot.png  used on input line 229.
 (pdftex.def)             Requested size: 149.09601pt x 139.25932pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -474,7 +474,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Images/diagramme_deploiement2.png, id=88, 1236.62pt x 1020.81375pt>
 File: Images/diagramme_deploiement2.png Graphic file (type png)
 <use Images/diagramme_deploiement2.png>
-Package pdftex.def Info: Images/diagramme_deploiement2.png  used on input line 237.
+Package pdftex.def Info: Images/diagramme_deploiement2.png  used on input line 238.
 (pdftex.def)             Requested size: 247.31961pt x 204.15913pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -482,15 +482,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Images/MLD_proposition_nous.png, id=89, 532.99126pt x 425.1885pt>
 File: Images/MLD_proposition_nous.png Graphic file (type png)
 <use Images/MLD_proposition_nous.png>
-Package pdftex.def Info: Images/MLD_proposition_nous.png  used on input line 246.
+Package pdftex.def Info: Images/MLD_proposition_nous.png  used on input line 247.
 (pdftex.def)             Requested size: 74.61826pt x 59.52597pt.
 <Images/MLD_proposition_hacquard.jpg, id=90, 4047.12pt x 3035.34pt>
 File: Images/MLD_proposition_hacquard.jpg Graphic file (type jpg)
 <use Images/MLD_proposition_hacquard.jpg>
-Package pdftex.def Info: Images/MLD_proposition_hacquard.jpg  used on input line 251.
+Package pdftex.def Info: Images/MLD_proposition_hacquard.jpg  used on input line 252.
 (pdftex.def)             Requested size: 566.59294pt x 424.9447pt.
 
-Overfull \hbox (348.93083pt too wide) in paragraph at lines 251--252
+Overfull \hbox (348.93083pt too wide) in paragraph at lines 252--253
 [][] 
  []
 
@@ -500,7 +500,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Images/figma_v1.png, id=91, 1658.195pt x 690.58pt>
 File: Images/figma_v1.png Graphic file (type png)
 <use Images/figma_v1.png>
-Package pdftex.def Info: Images/figma_v1.png  used on input line 260.
+Package pdftex.def Info: Images/figma_v1.png  used on input line 261.
 (pdftex.def)             Requested size: 331.63313pt x 138.11354pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -518,7 +518,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  60i,9n,63p,576b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on journal.pdf (6 pages, 3326121 bytes).
+Output written on journal.pdf (6 pages, 3326168 bytes).
 PDF statistics:
  166 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
