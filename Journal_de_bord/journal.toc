@@ -6,4 +6,5 @@
 \contentsline {chapter}{\numberline {4}Avril}{13}{chapter.4}%
 \contentsline {chapter}{\numberline {5}Mai}{15}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Juin}{17}{chapter.6}%
-\contentsline {part}{II\hspace {1em}Annexes}{19}{part.2}%
+\contentsline {part}{II\hspace {1em}Notes pour plus tard}{19}{part.2}%
+\contentsline {part}{III\hspace {1em}Annexes}{23}{part.3}%
