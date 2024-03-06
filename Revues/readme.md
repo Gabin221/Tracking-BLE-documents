@@ -36,7 +36,7 @@ entrepôt ».
 + MLD : il n’y a pas de table principale.
 + Vous dites « base de données » au lieu de « table ».
 
-## Revue 2 (Le 11 mars)
+## Revue 2 (Le 12 mars)
 
 C'est la première revue formelle et évaluée. Les diapos créées sont en deux parties: une partie commune aux trois étudiants et une partie individuelle. La partie individuelle va permettre d'expliquer au jury le contexte du projet ainsi que les objectifs de ce dernier. Dans les parties individuelles, chacun va présenter sa partie, ses diagrammes, se qu'il a déjà fait et ce qui lui reste à faire.
 
