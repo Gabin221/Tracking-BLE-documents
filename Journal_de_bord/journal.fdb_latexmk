@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1710494537 "/home/gabin/Documents/Aa/Tracking-BLE-documents/Journal_de_bord/journal.tex" "journal.pdf" "journal" 1710494539
+["pdflatex"] 1710746764 "/home/gabin/Documents/Aa/Tracking-BLE-documents/Journal_de_bord/journal.tex" "journal.pdf" "journal" 1710746766
   "/etc/texmf/web2c/texmf.cnf" 1704811601 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/gabin/Documents/Aa/Tracking-BLE-documents/Journal_de_bord/journal.tex" 1710494537 23021 dcb957c1688c68c39e63189057be8681 ""
+  "/home/gabin/Documents/Aa/Tracking-BLE-documents/Journal_de_bord/journal.tex" 1710746764 23192 8c477c18eb9d2a5536f3af31eb97f0d8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1136768653 3584 2d666ecf6d466d8b007246bc2f94d9da ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -112,7 +112,7 @@
   "/usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb" 1636152094 169201 9ebf99020dde51a5086e186761a34e8f ""
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1704811616 4379155 98693266ff65f58d9f98aff394de12d2 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1704811626 2800276 cad6a242677fad2a273652db33669455 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710678862 2799199 a7bc95a57fac5a46b7b7ef07aa9a1149 ""
   "Images/MLD_proposition_hacquard.jpg" 1707228271 1725341 171096e9976b72ce2cfb77ebcb13400e ""
   "Images/MLD_proposition_nous.png" 1707228271 62645 f69f58250a97c7c853415e66c8ec426b ""
   "Images/controle-chargement.png" 1707228271 73213 e970db4a56aaf9725aa4bfff9d20fb57 ""
@@ -126,10 +126,10 @@
   "Images/idee_design_application1.png" 1707228271 475939 5efa13a0d4dcb5081bc030541b745e9e ""
   "Images/recherche-actif.png" 1707228271 124791 3099d28d400a96eb026450b49e2a1aad ""
   "Images/recherche_actif.png" 1707228271 103627 e85976d828415fda147f4f701a4ce387 ""
-  "journal.aux" 1710494538 5069 ee0df9d3b4ee3f8a53ed69b951d59ee2 "pdflatex"
-  "journal.out" 1710494538 849 c4acc55679fd4cad09d9b75578c046ba "pdflatex"
-  "journal.tex" 1710494537 23021 dcb957c1688c68c39e63189057be8681 ""
-  "journal.toc" 1710494538 594 5be6682ef1ebc91cd9a2422149d157d0 "pdflatex"
+  "journal.aux" 1710746766 5069 ee0df9d3b4ee3f8a53ed69b951d59ee2 "pdflatex"
+  "journal.out" 1710746766 849 c4acc55679fd4cad09d9b75578c046ba "pdflatex"
+  "journal.tex" 1710746764 23192 8c477c18eb9d2a5536f3af31eb97f0d8 ""
+  "journal.toc" 1710746766 594 5be6682ef1ebc91cd9a2422149d157d0 "pdflatex"
   (generated)
   "journal.aux"
   "journal.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.9)  15 MAR 2024 10:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.17)  18 MAR 2024 08:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -38,9 +38,9 @@ Package: babel 2022/01/26 3.70 The Babel package
  (/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
 Language: french 2021/07/20 v3.5m French support from the babel system
 Package babel Info: Hyphen rules for 'acadian' set to \l@french
-(babel)             (\language23). Reported on input line 91.
+(babel)             (\language41). Reported on input line 91.
 Package babel Info: Hyphen rules for 'canadien' set to \l@french
-(babel)             (\language23). Reported on input line 92.
+(babel)             (\language41). Reported on input line 92.
 \FB@nonchar=\count196
 Package babel Info: Making : an active character on input line 430.
 Package babel Info: Making ; an active character on input line 431.
@@ -460,100 +460,100 @@ Chapitre 6.
 [17] [18
 
 ] [19] [20]
-Overfull \hbox (27.26657pt too wide) in paragraph at lines 301--302
+Overfull \hbox (27.26657pt too wide) in paragraph at lines 305--306
 [][]\T1/cmr/m/n/10 https://medium.com/@hasperong/get-current-location-with-latitude-and-longtitude-using-kotlin-2ef6c94c7b76[] 
  []
 
 
-Overfull \hbox (47.76047pt too wide) in paragraph at lines 303--304
+Overfull \hbox (47.76047pt too wide) in paragraph at lines 307--308
 []\T1/cmr/m/n/10 L'URL à contac-ter pour re-ce-voir la liste des major-minor est []https://juleshaag.fr/trackingble2024/liste_beacons.php[] 
  []
 
 [21] [22
 
 ] [23] [24]
-<Images/recherche-actif.png, id=237, 1456.44125pt x 1127.21124pt>
+<Images/recherche-actif.png, id=238, 1456.44125pt x 1127.21124pt>
 File: Images/recherche-actif.png Graphic file (type png)
 <use Images/recherche-actif.png>
-Package pdftex.def Info: Images/recherche-actif.png  used on input line 312.
+Package pdftex.def Info: Images/recherche-actif.png  used on input line 316.
 (pdftex.def)             Requested size: 203.90038pt x 157.80849pt.
-<Images/controle-chargement.png, id=239, 1122.1925pt x 912.40875pt>
+<Images/controle-chargement.png, id=240, 1122.1925pt x 912.40875pt>
 File: Images/controle-chargement.png Graphic file (type png)
 <use Images/controle-chargement.png>
-Package pdftex.def Info: Images/controle-chargement.png  used on input line 317.
+Package pdftex.def Info: Images/controle-chargement.png  used on input line 321.
 (pdftex.def)             Requested size: 157.10588pt x 127.73634pt.
-<Images/recherche_actif.png, id=240, 1538.74875pt x 807.015pt>
+<Images/recherche_actif.png, id=241, 1538.74875pt x 807.015pt>
 File: Images/recherche_actif.png Graphic file (type png)
 <use Images/recherche_actif.png>
-Package pdftex.def Info: Images/recherche_actif.png  used on input line 328.
+Package pdftex.def Info: Images/recherche_actif.png  used on input line 332.
 (pdftex.def)             Requested size: 215.42336pt x 112.98132pt.
-<Images/controle_chargement.png, id=241, 1532.72626pt x 856.19875pt>
+<Images/controle_chargement.png, id=242, 1532.72626pt x 856.19875pt>
 File: Images/controle_chargement.png Graphic file (type png)
 <use Images/controle_chargement.png>
-Package pdftex.def Info: Images/controle_chargement.png  used on input line 333.
+Package pdftex.def Info: Images/controle_chargement.png  used on input line 337.
 (pdftex.def)             Requested size: 214.58022pt x 119.867pt.
-<Images/idee_design_application1.png, id=242, 1026.83624pt x 1279.78125pt>
+<Images/idee_design_application1.png, id=243, 1026.83624pt x 1279.78125pt>
 File: Images/idee_design_application1.png Graphic file (type png)
 <use Images/idee_design_application1.png>
-Package pdftex.def Info: Images/idee_design_application1.png  used on input line 342.
+Package pdftex.def Info: Images/idee_design_application1.png  used on input line 346.
 (pdftex.def)             Requested size: 205.3636pt x 255.95172pt.
-<Images/diagramme_deploiement.png, id=243, 1425.325pt x 1036.87375pt>
+<Images/diagramme_deploiement.png, id=244, 1425.325pt x 1036.87375pt>
 File: Images/diagramme_deploiement.png Graphic file (type png)
 <use Images/diagramme_deploiement.png>
-Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 351.
+Package pdftex.def Info: Images/diagramme_deploiement.png  used on input line 355.
 (pdftex.def)             Requested size: 199.54414pt x 145.16133pt.
-<Images/diagramme_exigence1.png, id=244, 1536.74126pt x 523.9575pt>
+<Images/diagramme_exigence1.png, id=245, 1536.74126pt x 523.9575pt>
 File: Images/diagramme_exigence1.png Graphic file (type png)
 <use Images/diagramme_exigence1.png>
-Package pdftex.def Info: Images/diagramme_exigence1.png  used on input line 356.
+Package pdftex.def Info: Images/diagramme_exigence1.png  used on input line 360.
 (pdftex.def)             Requested size: 215.1423pt x 73.35355pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Images/diagramme_exigences_camion.png, id=245, 1392.20125pt x 1005.7575pt>
+<Images/diagramme_exigences_camion.png, id=246, 1392.20125pt x 1005.7575pt>
 File: Images/diagramme_exigences_camion.png Graphic file (type png)
 <use Images/diagramme_exigences_camion.png>
-Package pdftex.def Info: Images/diagramme_exigences_camion.png  used on input line 367.
+Package pdftex.def Info: Images/diagramme_exigences_camion.png  used on input line 371.
 (pdftex.def)             Requested size: 194.90685pt x 140.80508pt.
-<Images/diagramme_exigences_entrepot.png, id=246, 1064.97874pt x 994.71625pt>
+<Images/diagramme_exigences_entrepot.png, id=247, 1064.97874pt x 994.71625pt>
 File: Images/diagramme_exigences_entrepot.png Graphic file (type png)
 <use Images/diagramme_exigences_entrepot.png>
-Package pdftex.def Info: Images/diagramme_exigences_entrepot.png  used on input line 372.
+Package pdftex.def Info: Images/diagramme_exigences_entrepot.png  used on input line 376.
 (pdftex.def)             Requested size: 149.09601pt x 139.25932pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Images/diagramme_deploiement2.png, id=247, 1236.62pt x 1020.81375pt>
+<Images/diagramme_deploiement2.png, id=248, 1236.62pt x 1020.81375pt>
 File: Images/diagramme_deploiement2.png Graphic file (type png)
 <use Images/diagramme_deploiement2.png>
-Package pdftex.def Info: Images/diagramme_deploiement2.png  used on input line 381.
+Package pdftex.def Info: Images/diagramme_deploiement2.png  used on input line 385.
 (pdftex.def)             Requested size: 247.31961pt x 204.15913pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Images/MLD_proposition_nous.png, id=248, 532.99126pt x 425.1885pt>
+<Images/MLD_proposition_nous.png, id=249, 532.99126pt x 425.1885pt>
 File: Images/MLD_proposition_nous.png Graphic file (type png)
 <use Images/MLD_proposition_nous.png>
-Package pdftex.def Info: Images/MLD_proposition_nous.png  used on input line 390.
+Package pdftex.def Info: Images/MLD_proposition_nous.png  used on input line 394.
 (pdftex.def)             Requested size: 74.61826pt x 59.52597pt.
-<Images/MLD_proposition_hacquard.jpg, id=249, 4047.12pt x 3035.34pt>
+<Images/MLD_proposition_hacquard.jpg, id=250, 4047.12pt x 3035.34pt>
 File: Images/MLD_proposition_hacquard.jpg Graphic file (type jpg)
 <use Images/MLD_proposition_hacquard.jpg>
-Package pdftex.def Info: Images/MLD_proposition_hacquard.jpg  used on input line 395.
+Package pdftex.def Info: Images/MLD_proposition_hacquard.jpg  used on input line 399.
 (pdftex.def)             Requested size: 566.59294pt x 424.9447pt.
 
-Overfull \hbox (348.93083pt too wide) in paragraph at lines 395--396
+Overfull \hbox (348.93083pt too wide) in paragraph at lines 399--400
 [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Images/figma_v1.png, id=250, 1658.195pt x 690.58pt>
+<Images/figma_v1.png, id=251, 1658.195pt x 690.58pt>
 File: Images/figma_v1.png Graphic file (type png)
 <use Images/figma_v1.png>
-Package pdftex.def Info: Images/figma_v1.png  used on input line 404.
+Package pdftex.def Info: Images/figma_v1.png  used on input line 408.
 (pdftex.def)             Requested size: 331.63313pt x 138.11354pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -563,18 +563,18 @@ Package rerunfilecheck Info: File `journal.out' has not changed.
 (rerunfilecheck)             Checksum: C4ACC55679FD4CAD09D9B75578C046BA;849.
  ) 
 Here is how much of TeX's memory you used:
- 13346 strings out of 478287
- 214105 string characters out of 5849290
+ 13347 strings out of 478287
+ 214112 string characters out of 5849289
  525066 words of memory out of 5000000
  31269 multiletter control sequences out of 15000+600000
  483417 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,9n,63p,610b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on journal.pdf (27 pages, 3392908 bytes).
+Output written on journal.pdf (27 pages, 3393006 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 269 compressed objects within 3 object streams
- 90 named destinations out of 1000 (max. 500000)
+ 350 PDF objects out of 1000 (max. 8388607)
+ 271 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
 
